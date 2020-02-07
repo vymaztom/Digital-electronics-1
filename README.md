@@ -5,10 +5,8 @@ Main page of my notes from subject BPC-DE1 (VUT FEKT)
 ### Basic resources
 
 
-- Teacher`s GIT
-    https://github.com/tomas-fryza/Digital-electronics-1
-- co-worker`s GIT
-    https://github.com/iMorphiy/Digital-electronic1
+* [Teacher`s GIT](https://github.com/tomas-fryza/Digital-electronics-1)
+* [Co-worker`s GIT](https://github.com/iMorphiy/Digital-electronic1)
 
 ## Computers lessons activities
 
