@@ -48,7 +48,7 @@ Use the K-map to create the minimum ![equation](https://latex.codecogs.com/gif.l
 
 &nbsp;
 
-![equation](https://latex.codecogs.com/gif.latex?y_%7BA%3CB%7D%5E%7BSoP%2C%20min%7D%3D%20%5Coverline%7BA%7D%5Ccdot%20B)
+![equation](https://latex.codecogs.com/gif.latex?y_%7BA%3CB%7D%5E%7BPoS%2C%20min%7D%3D%20%5Coverline%7BA%7D%5Ccdot%20B)
 
 &nbsp;
 
