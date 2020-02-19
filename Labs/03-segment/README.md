@@ -2,7 +2,7 @@
 
 1. See [schematic](../../Docs/coolrunner-ii_sch.pdf) or [reference manual](../../Docs/coolrunner-ii_rm.pdf) of the board and find out the connection of 7-segment display. How can you change the position of the character on the display?
 
-```
+```vhdl
 # LED segments
 NET disp_seg_o<6>   LOC = P56;  # segment a
 NET disp_seg_o<5>   LOC = P53;  # segment b
