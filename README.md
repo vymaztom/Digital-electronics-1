@@ -10,18 +10,18 @@ Main page of my notes from subject BPC-DE1 (VUT FEKT)
 
 ## Computers lessons activities
 
-| **Number** | **Date** | **Activity** |
-| :-: | :-: | :-: |
-|0| 6. 2. 2020 | De Morgan's laws && Basic gates and propositional logic && Tutorial for GIT |
-|1| 13. 2. 2020 |  |
-|2| 20. 2. 2020 |  |
-|3| 27. 2. 2020 |  |
-|4| 5. 3. 2020 |  |
-|5| 12. 3. 2020 |  |
-|6| 19. 3. 2020 |  |
-|7| 26. 3. 2020 |  |
-|8| 2. 4. 2020 |  |
-|9| 9. 4. 2020 |  |
-|10| 16. 4. 2020 |  |
-|11| 23. 4. 2020 |  |
-|12| 30. 4. 2020 |  |
+| **Number** | **Date** | **Lab name** | **Activity** |
+| :-: | :-: | :-: | :-: |
+|1| 6. 2. 2020 |[01-gates](Labs/01-gates)| De Morgan's laws && Basic gates and propositional logic && Tutorial for GIT |
+|2| 13. 2. 2020 |[02-ise](Labs/02-ise)| Introduction to VHDL and Xilinx ISE |
+|3| 20. 2. 2020 |[03-segment](Labs/03-segment)| Hex to seven-segment decoder |
+|4| 27. 2. 2020 |  |
+|5| 5. 3. 2020 |  |
+|6| 12. 3. 2020 |  |
+|7| 19. 3. 2020 |  |
+|8| 26. 3. 2020 |  |
+|9| 2. 4. 2020 |  |
+|10| 9. 4. 2020 |  |
+|11| 16. 4. 2020 |  |
+|12| 23. 4. 2020 |  |
+|13| 30. 4. 2020 |  |
