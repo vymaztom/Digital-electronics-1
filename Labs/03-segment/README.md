@@ -1,6 +1,8 @@
-## Preparation tasks (done before the lab at home)
+# 3. lecture (03-hex_to_segment)
 
-1. See [schematic](../../Docs/coolrunner-ii_sch.pdf) or [reference manual](../../Docs/coolrunner-ii_rm.pdf) of the board and find out the connection of 7-segment display. How can you change the position of the character on the display?
+## Homework
+
+1. From *schematic* and *documentation* can I define.
 
 ```vhdl
 # LED segments
