@@ -15,7 +15,7 @@ Main page of my notes from subject BPC-DE1 (VUT FEKT)
 |1| 6. 2. 2020 |[01-gates](Labs/01-gates)| De Morgan's laws && Basic gates and propositional logic && Tutorial for GIT |
 |2| 13. 2. 2020 |[02-ise](Labs/02-ise)| Introduction to VHDL and Xilinx ISE |
 |3| 20. 2. 2020 |[03-segment](Labs/03-segment)| Hex to seven-segment decoder |
-|4| 27. 2. 2020 |  |
+|4| 27. 2. 2020 | [04-sadder](Labs/04-adder)| Binary adder, full && half |
 |5| 5. 3. 2020 |  |
 |6| 12. 3. 2020 |  |
 |7| 19. 3. 2020 |  |
